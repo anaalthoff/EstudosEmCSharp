@@ -1,0 +1,56 @@
+# Build results
+bin/
+obj/
+out/
+
+# Cache e temporários
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.user
+*.suo
+*.tmp
+*.pidb
+*.svclog
+*.pdb
+
+# Diretórios do Visual Studio
+.vs/
+.vscode/
+
+# Arquivos do NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.props
+*.nuget.targets
+*.nuget.cache
+*.nuget.dgspec.json
+
+# Arquivos de IDE
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+*.trx
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Rider
+.idea/
+
+# Outros temporários
+*.dbmdl
+*.bak
+*.Backup
+*.orig
