@@ -12,5 +12,6 @@ public class Program
     {
         // Console.WriteLine("Hello World!");
         Variaveis.Variavel();
+        Constantes.Constante();
     }
 }

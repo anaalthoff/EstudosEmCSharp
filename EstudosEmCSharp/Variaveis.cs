@@ -7,6 +7,6 @@ public class Variaveis
         string name = "Ana";
         int age = 20;
         char character = 'e';
-        Console.WriteLine($"Olá, meu nome é {name} {character} tenho {age} anos");
+        Console.WriteLine($"Olá, meu nome é {name} {character} tenho {age} anos. Escrito com variáveis.");
     }
 }
