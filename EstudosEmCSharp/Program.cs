@@ -14,5 +14,9 @@ public class Program
         Variaveis.Variavel();
         Constantes.Constante();
         InputEOutput.InputOutput();
+        Calculadora.Somar();
+        Calculadora.Subtrair();
+        Calculadora.Multiplicar();
+        Calculadora.Dividir();
     }
 }
