@@ -10,6 +10,7 @@ public class Program
     // Método Main é o método principal da classe
     public static void Main()
     {
-        Console.WriteLine("Hello World!");
+        // Console.WriteLine("Hello World!");
+        Variaveis.Variavel();
     }
 }
