@@ -11,12 +11,13 @@ public class Program
     public static void Main()
     {
         // Console.WriteLine("Hello World!");
-        Variaveis.Variavel();
-        Constantes.Constante();
-        InputEOutput.InputOutput();
-        Calculadora.Somar();
-        Calculadora.Subtrair();
-        Calculadora.Multiplicar();
-        Calculadora.Dividir();
+        // Variaveis.Variavel();
+        // Constantes.Constante();
+        // InputEOutput.InputOutput();
+        // Calculadora.Somar();
+        // Calculadora.Subtrair();
+        // Calculadora.Multiplicar();
+        // Calculadora.Dividir();
+        EstruturaCondicional.Ifs();
     }
 }
