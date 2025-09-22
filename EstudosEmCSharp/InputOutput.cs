@@ -6,7 +6,8 @@ public class InputEOutput
     {
         Console.WriteLine("Escreva seu nome:");
         // Console.Readline lê apenas strings
-        string name = Console.ReadLine();
+        // 'Empty' não é nulo aqui.
+        string name = Console.ReadLine() ?? string.Empty;
 
         Console.WriteLine("Escreva sua idade:");
         int age = Convert.ToInt32(Console.ReadLine());
