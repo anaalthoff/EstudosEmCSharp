@@ -19,6 +19,8 @@ public class Program
         // Calculadora.Multiplicar();
         // Calculadora.Dividir();
         // EstruturaCondicional.Ifs();
-        OperadoresDeAtribuicao.OperadorDeAtribuicao();
+        // OperadoresDeAtribuicao.OperadorDeAtribuicao();
+        // OperadoresRelacionais.OperadorRelacional();
+        OperadoresLogicos.OperadorLogico();
     }
 }
