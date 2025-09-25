@@ -14,7 +14,7 @@ public class Program
         // Variaveis.Variavel();
         // Constantes.Constante();
         // InputEOutput.InputOutput();
-        Calculadora.Calcular();
+        // Calculadora.Calcular();
         // Calculadora.Somar();
         // Calculadora.Subtrair();
         // Calculadora.Multiplicar();
@@ -23,5 +23,6 @@ public class Program
         // OperadoresDeAtribuicao.OperadorDeAtribuicao();
         // OperadoresRelacionais.OperadorRelacional();
         // OperadoresLogicos.OperadorLogico();
+        Switch.EstacoesDoAno();
     }
 }
